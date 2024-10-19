@@ -1,0 +1,177 @@
+{
+    "name": "yunlong jiao",
+    "current_location": {
+        "state": "London",
+        "country": "UK"
+    },
+    "email": "yljiao.ustc@gmail.com",
+    "phone_number": "+1 (447) 400-7242",
+    "websites": {
+        "github": null,
+        "linkedin": "https://www.linkedin.com/in/yunlong-jiao/",
+        "portfolio": null,
+        "others": []
+    },
+    "professional_summary": "I am currently a machine learning scientist at Amazon Alexa, working on building AI assistant that is able to replicate human intelligence. I am passionate about applied AI research that drives tangible impact for products and services. With over 5 years of post-PhD experience in the field of ML/AI, I possess strong skills in model development and performance evaluation, and am proficient in Python and deep learning frameworks. While successfully incubating and delivering multiple projects at Amazon, I am involved in all phases of the development cycle \u2013 from building proof of concept to delivering minimum viable products and scaling up production. I have experience in supervising master\u2019s theses and research internships, as well as coaching and mentoring junior team members.",
+    "education": [
+        {
+            "degree": "doctorate",
+            "major": "Computational Biology",
+            "location": {
+                "state": null,
+                "country": "France"
+            },
+            "institution": "Centre for Computational Biology, Paris Sciences et Lettres\u2013PSL Research University",
+            "start_date": "09/2013",
+            "end_date": "09/2017",
+            "details": {
+                "awards": null,
+                "relevant_courses": [],
+                "clubs": null
+            }
+        },
+        {
+            "degree": "masters",
+            "major": "Mathematics",
+            "location": {
+                "state": null,
+                "country": "France"
+            },
+            "institution": "Department of Mathematics, University of Paris-Saclay",
+            "start_date": "09/2012",
+            "end_date": "09/2013",
+            "details": {
+                "awards": "Mention Tr\u00e8s Bien",
+                "relevant_courses": [],
+                "clubs": null
+            }
+        },
+        {
+            "degree": "bachelor",
+            "major": "Mathematics",
+            "location": {
+                "state": null,
+                "country": "China"
+            },
+            "institution": "Department of Mathematics, University of Science & Technology of China",
+            "start_date": "09/2008",
+            "end_date": "09/2012",
+            "details": {
+                "awards": "First Class Honours",
+                "relevant_courses": [],
+                "clubs": null
+            }
+        }
+    ],
+    "work_experience": [
+        {
+            "job_title": "Machine Learning Scientist",
+            "company": "Amazon",
+            "start_date": "11/2019",
+            "end_date": null,
+            "location": {
+                "city": "London",
+                "state": null,
+                "country": "UK"
+            },
+            "responsibilities": [
+                "Leading research on bias mitigation technologies in NLP to enhance fairness while preserving user privacy.",
+                "Building and deploying ML solutions in creating unified user experiences for Alexa Shopping across different devices.",
+                "Working in cross-functional teams, overseeing prototype to production, and communicating results with stakeholders.",
+                "Supervising research internships and coaching and mentoring junior team members."
+            ]
+        },
+        {
+            "job_title": "Postdoctoral Research Scientist",
+            "company": "University of Oxford",
+            "start_date": "11/2017",
+            "end_date": "10/2019",
+            "location": {
+                "city": "Oxford",
+                "state": null,
+                "country": "UK"
+            },
+            "responsibilities": [
+                "Leading Oxford research in a multi-organizational project (involving organizations in the UK and EU) and developing novel methods for longitudinal modelling of complex disease using multi-modal data integration.",
+                "Supervising master\u2019s theses in the Department of Statistics."
+            ]
+        },
+        {
+            "job_title": "Doctoral Researcher",
+            "company": "PSL Research University",
+            "start_date": "09/2013",
+            "end_date": "09/2017",
+            "location": {
+                "city": null,
+                "state": null,
+                "country": "France"
+            },
+            "responsibilities": [
+                "My PhD work contributed novel ML methods and advanced scientific discoveries in biology and cancer research.",
+                "My research focus was kernel methods and representation learning of non-tabular data, such as rank data and graphs.",
+                "My research outputs significantly improved prediction of breast cancer survival using genetic data, and guided interpretable biomarker discovery with the help of biological networks.",
+                "I had published multiple first-authored papers in top ML conferences and journals (3 at ICML and 1 at IEEE TPAMI) and developed open-source toolkits.",
+                "A few colleagues and I participated, and finally placed 2nd, in the DREAM Toxicogenetics Challenge, a Kaggle-style community competition in data science that is aimed to advance computational methods in biology."
+            ]
+        },
+        {
+            "job_title": "Data Scientist Intern",
+            "company": "Roche Diagnostics GmbH",
+            "start_date": "04/2015",
+            "end_date": "06/2015",
+            "location": {
+                "city": "Penzberg",
+                "state": null,
+                "country": "Germany"
+            },
+            "responsibilities": [
+                "Proposed a data pipeline to process large-scale unstructured machinery performance data and built a model to predict failure state for automated immunoassay analyzers.",
+                "Demonstrated how maintenance efficiency can be greatly improved for one of Roche\u2019s core hardware products.",
+                "My work had a direct impact on strengthening customer trust, and the innovative solution was patented by Roche."
+            ]
+        }
+    ],
+    "skills": [
+        "Natural Language Processing",
+        "Large Language Models",
+        "Deep Generative Models",
+        "Neural Text-to-Speech",
+        "Gaussian Processes",
+        "Time Series Forecasting",
+        "Multi-modality",
+        "Kernel Methods",
+        "Representation Learning",
+        "Graph Learning",
+        "Sparsity Regularisation",
+        "Information Extraction",
+        "Feature Engineering",
+        "Large-Scale Unstructured Database",
+        "Python",
+        "numpy",
+        "pandas",
+        "scikit-learn",
+        "Deep Learning Frameworks",
+        "PyTorch",
+        "MXNet",
+        "R",
+        "C",
+        "C++",
+        "Accelerated Computing",
+        "CUDA",
+        "Cloud Computing",
+        "AWS",
+        "SageMaker",
+        "SQL",
+        "Bash",
+        "Git",
+        "Docker",
+        "Open Source",
+        "Unit Testing",
+        "Integration Testing",
+        "CI/CD",
+        "Communication",
+        "Mentoring",
+        "Writing",
+        "Project Management"
+    ]
+}

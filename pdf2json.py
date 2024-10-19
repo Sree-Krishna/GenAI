@@ -88,9 +88,11 @@ def parse_resume(resume_text):
 
 
 
-# pdf_path = 'Sree_Krishna_Resume_Infosys.pdf' 
+pdf_path = 'Sree_Krishna_Resume_Infosys.pdf' 
 # pdf_path = 'yama.pdf' 
-pdf_path = 'resume_juanjosecarin.pdf' 
+# pdf_path = 'resume_juanjosecarin.pdf' 
+# pdf_path = 'ilia.pdf'
+# pdf_path = 'resume.pdf'
 # resume_text = extract_text_from_pypdf(pdf_path)
 resume_text = extract_text_from_pdfplumber('data/'+pdf_path)
 
@@ -109,7 +111,7 @@ else:
 
 
 ###############
-# Chencking how many tokents are sent to the model
+# Checking how many tokents are sent to the model
 # Convert the JSON object back to string format 
 tokens_str = template+ json.dumps(json_schema) + str(resume_data)
 

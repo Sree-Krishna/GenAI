@@ -1,0 +1,237 @@
+{
+    "name": "ilia aitsev",
+    "current_location": {
+        "state": "Hamburg",
+        "country": "Germany"
+    },
+    "email": null,
+    "phone_number": null,
+    "websites": {
+        "github": null,
+        "linkedin": "linkedin.com/in/ilia-zaitsev",
+        "portfolio": "iliazaitsev.me",
+        "others": [
+            "medium.com/@iliazaitsev"
+        ]
+    },
+    "professional_summary": "Data Scientist and Machine Learning Engineer with 8 years of applied data science, machine learning, and software development experience. Advanced knowledge of software design patterns, fluent in Python, learning Rust, strong in object-oriented and functional programming paradigms and in technical writing. Currently working at Blue Yonder GmbH as a Staff Data Scientist. Excels at applying AI/ML theory to commercial development in high volume data processing, visualisation, and model development.",
+    "education": [
+        {
+            "degree": "bachelors",
+            "major": "Software Engineering",
+            "location": {
+                "state": null,
+                "country": "Russia"
+            },
+            "institution": "Surgut State University",
+            "start_date": "09/2009",
+            "end_date": "07/2014",
+            "details": {
+                "awards": null,
+                "relevant_courses": [],
+                "clubs": null
+            }
+        },
+        {
+            "degree": null,
+            "major": "Artificial Intelligence",
+            "location": {
+                "state": null,
+                "country": null
+            },
+            "institution": "Udacity",
+            "start_date": "09/2017",
+            "end_date": "12/2017",
+            "details": {
+                "awards": null,
+                "relevant_courses": [],
+                "clubs": null
+            }
+        },
+        {
+            "degree": null,
+            "major": "Machine Learning",
+            "location": {
+                "state": null,
+                "country": null
+            },
+            "institution": "Udacity",
+            "start_date": "09/2016",
+            "end_date": "04/2017",
+            "details": {
+                "awards": null,
+                "relevant_courses": [],
+                "clubs": null
+            }
+        },
+        {
+            "degree": null,
+            "major": "Artificial Intelligence",
+            "location": {
+                "state": null,
+                "country": null
+            },
+            "institution": "edX, BerkeleyX",
+            "start_date": "02/2015",
+            "end_date": "05/2016",
+            "details": {
+                "awards": null,
+                "relevant_courses": [],
+                "clubs": null
+            }
+        }
+    ],
+    "work_experience": [
+        {
+            "job_title": "Staff Data Scientist",
+            "company": "Blue Yonder Inc.",
+            "start_date": "06/2020",
+            "end_date": null,
+            "location": {
+                "city": "Hamburg",
+                "state": "Hamburg",
+                "country": "Germany"
+            },
+            "responsibilities": [
+                "Worked on distributed data processing systems training regression models on large volume of transactional data",
+                "Developed and maintained a set of internally used data management and data processing libraries",
+                "Participated in building of a new Machine Learning product oriented on retail business clients selling short-lifetime goods",
+                "Analized and built regression models for predicting utilization of goods for various retail businesses",
+                "Participated in product\u2019s design sessions, codebase maintenance and migration to a new set of model\u2019s training tools"
+            ]
+        },
+        {
+            "job_title": "Machine Learning Engineer",
+            "company": "Smaato Inc.",
+            "start_date": "06/2019",
+            "end_date": "05/2020",
+            "location": {
+                "city": null,
+                "state": null,
+                "country": null
+            },
+            "responsibilities": [
+                "Worked on scalable Machine Learning pipeline capable to train Deep Learning models on huge data volumes to improve currently established algorithms with data-driven solutions",
+                "Participated in building a Python package unifying data management and model training processes company-wide",
+                "Worked on building CI/CD pipeline releasing machine learning package and data pipelines",
+                "Analyzed ads providers bidding patterns and developed Machine Learning models to reduce the outbound traffic costs without revenue impact"
+            ]
+        },
+        {
+            "job_title": "Python Developer (Contractor)",
+            "company": null,
+            "start_date": "08/2014",
+            "end_date": "03/2019",
+            "location": {
+                "city": null,
+                "state": null,
+                "country": null
+            },
+            "responsibilities": [
+                "Worked with programmers, data scientists, technical teams and product owners on diverse projects, authored technical articles on machine learning algorithms",
+                "In-commodities. Developing a set of trading tools for data scientists and commodities traders",
+                "Windsor.ai. Improved codebase tests coverage and eliminated bugs for toolset that analyses customer journeys and enables multi-touch attribution modelling to optimise client marketing budgets",
+                "Viziphi. Developed a visualization tool for financial data plotting, leveraged knowledge of seaborn/matplotlib Python libraries to generate 2D image plots with critical financial information (loss/return heatmaps, confusion matrixes, etc.)",
+                "ZenVPN. Ported and improved OpenVPN-based Windows VPN client to macOS, made adjustments to account for differences between platforms",
+                "Klue. Developed a set of scripts, backend endpoints and ORM models for predictive food consumption system",
+                "Private Client/Entrepreneur. Implemented a decision-tree based classifier for a tabular dataset classification for Proof-of-Concept",
+                "Whippletree Research. Analyzed medical treatment information dataset using various classification algorithms (Random Forests, SVM, Gradients Boosting)"
+            ]
+        },
+        {
+            "job_title": "Python Developer & Machine Learning Engineer (Contract)",
+            "company": "VectorScient",
+            "start_date": "12/2015",
+            "end_date": "05/2018",
+            "location": {
+                "city": null,
+                "state": null,
+                "country": null
+            },
+            "responsibilities": [
+                "Developed a configurable machine learning pipeline with visualizing and reporting system to preprocess and classify database-stored e-commerce information for B2B e-commerce clients of Predictally, wrote package to predict future behavior from millions of transactions per client"
+            ]
+        },
+        {
+            "job_title": "Face Emotions Recognition System Engineer (Contract)",
+            "company": null,
+            "start_date": "12/2016",
+            "end_date": "03/2017",
+            "location": {
+                "city": null,
+                "state": null,
+                "country": null
+            },
+            "responsibilities": [
+                "Developed a model to classify human face emotions in Computer Vision during Udacity MOOC",
+                "Authored a technical paper on software development and results verification"
+            ]
+        },
+        {
+            "job_title": "Python Developer (Contract)",
+            "company": "BASE Capital",
+            "start_date": "05/2016",
+            "end_date": "03/2017",
+            "location": {
+                "city": null,
+                "state": null,
+                "country": null
+            },
+            "responsibilities": [
+                "Fixed scripts and increased speed of script execution by factor of 5, as verified by the product owner",
+                "Improved and refactored legacy data processing codebase",
+                "Developed a web UI to access CLI-based tools running loan volume prediction models."
+            ]
+        }
+    ],
+    "skills": [
+        "Machine Learning",
+        "PyTorch",
+        "Scikit-Learn",
+        "TensorFlow",
+        "Deep Learning",
+        "Computer Vision",
+        "Boosted Trees",
+        "Statistical Analysis",
+        "Model Complexity & Tuning",
+        "Regression vs Classification Problems",
+        "Reinforcement Learning",
+        "Data Processing & Visualisation",
+        "numpy",
+        "pandas",
+        "Dask",
+        "Jupyter",
+        "matplotlib",
+        "seaborn",
+        "opencv",
+        "Programming",
+        "Object-Oriented & Functional Programming",
+        "Python",
+        "Rust",
+        "Cloud Services",
+        "AWS SageMaker",
+        "EMR",
+        "S3",
+        "Databricks",
+        "Azure",
+        "Google Cloud Compute",
+        "Databases",
+        "PostgreSQL",
+        "SQLAlchemy",
+        "Flask",
+        "FastAPI",
+        "macOS",
+        "Linux",
+        "DevOps",
+        "Docker",
+        "Jenkins",
+        "SW Design & IDE Tools",
+        "PyCharm",
+        "VS Code",
+        "pdb",
+        "vim",
+        "Test-driven development",
+        "xUnit",
+        "pytest"
+    ]
+}
