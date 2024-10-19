@@ -1,0 +1,200 @@
+{
+    "name": "juanjose carin",
+    "current_location": {
+        "state": "CA",
+        "country": "USA"
+    },
+    "email": "juanjose.carin@gmail.com",
+    "phone_number": "+1 (650) 336-4590",
+    "websites": {
+        "github": "https://juanjocarin.github.io/",
+        "linkedin": "http://www.linkedin.com/in/juanjosecarin",
+        "portfolio": null,
+        "others": []
+    },
+    "professional_summary": "Passionate about data analysis and experiments, mainly focused on user behavior, experience, and engagement, with a solid background in data science and statistics, and extensive experience using data insights to drive business growth.",
+    "education": [
+        {
+            "degree": "masters",
+            "major": "Information and Data Science",
+            "location": {
+                "state": "CA",
+                "country": "USA"
+            },
+            "institution": "University of California, Berkeley",
+            "start_date": "08/2014",
+            "end_date": "05/2016",
+            "details": {
+                "awards": null,
+                "relevant_courses": [
+                    "Field Experiments",
+                    "Data Visualization and Communication",
+                    "Machine Learning",
+                    "Applied Regression and Time Series Analysis",
+                    "Machine Learning at Scale",
+                    "Research Design and Applications for Data Analysis",
+                    "Storing and Retrieving Data",
+                    "Exploring and Analyzing Data"
+                ],
+                "clubs": null
+            }
+        },
+        {
+            "degree": "masters",
+            "major": "Statistical and Computational Information Processing",
+            "location": {
+                "state": null,
+                "country": "Spain"
+            },
+            "institution": "Universidad Polit\u00e9cnica de Madrid",
+            "start_date": "09/2012",
+            "end_date": "06/2014",
+            "details": {
+                "awards": null,
+                "relevant_courses": [
+                    "Neural Networks and Statistical Learning",
+                    "Data Mining",
+                    "Monte Carlo Techniques",
+                    "Numerical Methods in Finance",
+                    "Multivariate Analysis",
+                    "Regression and Prediction Methods",
+                    "Stochastic Models in Finance",
+                    "Time Series",
+                    "Optimization Techniques",
+                    "Bayesian Networks"
+                ],
+                "clubs": null
+            }
+        },
+        {
+            "degree": "masters",
+            "major": "Telecommunication Engineering",
+            "location": {
+                "state": null,
+                "country": "Spain"
+            },
+            "institution": "Universidad Polit\u00e9cnica de Madrid",
+            "start_date": "09/2000",
+            "end_date": "06/2005",
+            "details": {
+                "awards": "First year at University, due to Honors obtained last year at high school.",
+                "relevant_courses": null,
+                "clubs": null
+            }
+        }
+    ],
+    "work_experience": [
+        {
+            "job_title": "Data Scientist",
+            "company": "CONENTO",
+            "start_date": "01/2016",
+            "end_date": "03/2016",
+            "location": {
+                "city": "Madrid",
+                "state": null,
+                "country": "Spain"
+            },
+            "responsibilities": [
+                "Designed and implemented the ETL pipeline for a predictive model of traffic on the main roads in eastern Spain (a project for the Spanish government).",
+                "Automated scripts in R to extract, transform, clean (incl. anomaly detection), and load into MySQL data from multiple data sources: road traffic sensors, accidents, road works, weather."
+            ]
+        },
+        {
+            "job_title": "Data Scientist",
+            "company": "CONENTO",
+            "start_date": "06/2014",
+            "end_date": "09/2014",
+            "location": {
+                "city": "Madrid",
+                "state": null,
+                "country": "Spain"
+            },
+            "responsibilities": [
+                "Designed an experiment for Google Spain (conducted in October 2014) to measure the impact of YouTube ads on the sales of a car manufacturer's dealer network.",
+                "A matched-pair, cluster-randomized design, which involved selecting the test and control groups from a sample of 50+ cities in Spain (where geo-targeted ads were possible) based on their sales-wise similarity over time, using wavelets (and R)."
+            ]
+        },
+        {
+            "job_title": "Head of Sales, Spain & Portugal \u2013 Test & Measurement dept.",
+            "company": "YOKOGAWA",
+            "start_date": "02/2009",
+            "end_date": "08/2013",
+            "location": {
+                "city": "Madrid",
+                "state": null,
+                "country": "Spain"
+            },
+            "responsibilities": [
+                "Applied analysis of sales and market trends to decide the direction of the department.",
+                "Led a team of 7 people.",
+                "Increased revenue by 6.3%, gross profit by 4.2%, and operating income by 146%, and achieved a 30% ratio of new customers (3x growth), by entering new markets and improving customer service and training."
+            ]
+        },
+        {
+            "job_title": "Sales Engineer \u2013 Test & Measurement dept.",
+            "company": "YOKOGAWA",
+            "start_date": "04/2008",
+            "end_date": "01/2009",
+            "location": {
+                "city": "Madrid",
+                "state": null,
+                "country": "Spain"
+            },
+            "responsibilities": [
+                "Promoted to head of sales after 5 months leading the sales team."
+            ]
+        },
+        {
+            "job_title": "Sales & Application Engineer",
+            "company": "AYSCOM",
+            "start_date": "09/2004",
+            "end_date": "03/2008",
+            "location": {
+                "city": "Madrid",
+                "state": null,
+                "country": "Spain"
+            },
+            "responsibilities": [
+                "Exceeded sales target every year from 2005 to 2007 (achieved 60% of the target in the first 3 months of 2008)."
+            ]
+        },
+        {
+            "job_title": "Tutor of Differential & Integral Calculus, Physics, and Digital Electronic Circuits",
+            "company": "ACADEMIA UNIVERSITARIA",
+            "start_date": "07/2002",
+            "end_date": "06/2004",
+            "location": {
+                "city": "Madrid",
+                "state": null,
+                "country": "Spain"
+            },
+            "responsibilities": [
+                "Highest-rated professor in student surveys, in 4 of the 6 terms.",
+                "Increased ratio of students passing the course by 25%."
+            ]
+        }
+    ],
+    "skills": [
+        "R",
+        "Python",
+        "SQL",
+        "Hadoop",
+        "Hive",
+        "MrJob",
+        "Tableau",
+        "Git",
+        "AWS",
+        "SPSS",
+        "SAS",
+        "Matlab",
+        "Spark",
+        "Storm",
+        "Bash",
+        "EViews",
+        "Demetra+",
+        "D3.js",
+        "Gephi",
+        "Neo4j",
+        "QGIS"
+    ]
+}

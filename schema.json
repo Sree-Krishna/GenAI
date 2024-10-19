@@ -1,0 +1,102 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "title": "Parsed Resume Data",
+    "type": "object",
+    "properties": {
+      "name": {
+        "type": "string",
+        "description": "The full name of the individual, extracted in lowercase."
+      },
+      "current_location": {
+        "type": "object",
+        "properties": {
+          "state": { "type": "string", "description": "State of residence." },
+          "country": { "type": "string", "description": "Country of residence." }
+        }
+      },
+      "email": {
+        "type": "string",
+        "description": "The email address, extracted case-sensitive."
+      },
+      "phone_number": {
+        "type": "string",
+        "description": "strictly adhere to this phone number in the format +1 (xxx) xxx-xxxx if not convert to this format"
+      },
+      "websites": {
+        "type": "object",
+        "properties": {
+          "github": { "type": "string", "description": "GitHub profile URL." },
+          "linkedin": { "type": "string", "description": "LinkedIn profile URL." },
+          "portfolio": { "type": "string", "description": "Portfolio URL." },
+          "others": { "type": "array", "description": "Any other website or profile URLs as an array" }
+        }
+      },
+      "professional_summary": {
+        "type": "string",
+        "description": "Summary of the individual's professional background. If missing, value should be null."
+      },
+      "education": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {
+            "degree": { "type": "string", "description": "Degree obtained: the values should be strictly masters, bachelors, or doctorate, so infer what is the degree from the abbrivation or similar title provided in input text." },
+            "major": { "type": "string", "description": "Field of study." },
+            "location": {
+              "type": "object",
+              "properties": {
+                "state": { "type": "string", "description": "State where the institution is located." },
+                "country": { "type": "string", "description": "Country where the institution is located." }
+              }
+            },
+            "institution": { "type": "string", "description": "Name of the educational institution." },
+            "start_date": { "type": "string", "description": "Start date of the education in format month/year.", "format": "date" },
+            "end_date": { "type": "string", "description": "End date of the education in format month/year, if completed.", "format": "date" },
+            "details": {
+              "type": "object",
+              "properties": {
+                "awards": { "type": "string", "description": "Awards, honors and recognitions received." },
+                "relevant_courses": {
+                  "type": "array",
+                  "items": { "type": "string", "description": "List of relevant courses taken be comprehensive and dont miss out on course." }
+                },
+                "clubs": { "type": "string", "description": "Clubs or extracurricular activities." }
+              }
+            }
+          }
+        }
+      },
+      "work_experience": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {
+            "job_title": { "type": "string", "description": "Title of the job role." },
+            "company": { "type": "string", "description": "Company where the individual worked." },
+            "start_date": { "type": "string", "description": "Start date of the job in format month/year.", "format": "date" },
+            "end_date": { "type": "string", "description": "End date of the job in format month/year, if applicable.", "format": "date" },
+            "location": {
+              "type": "object",
+              "properties": {
+                "city": { "type": "string", "description": "City where the job is located." },
+                "state": { "type": "string", "description": "State where the job is located." },
+                "country": { "type": "string", "description": "Country where the job is located." }
+              },
+              "description": "accuratly identify if the provided information is country, city or state and populate the respective details"
+            },
+            "responsibilities": {
+              "type": "array",
+              "items": { "type": "string", "description": "Key responsibilities and accomplishments in the role." }
+            }
+          }
+        }
+      },
+      "skills": {
+        "type": "array",
+        "items": { "type": "string", "description": "Name of individual skill, case sensitive." },
+        "description": "List of skills, split up and identify as individual skill if present inside brackets or seprated with commas."
+      }
+    },
+    "required": ["name", "current_location", "email", "phone_number", "websites", "education", "work_experience", "skills"]
+  }
+  

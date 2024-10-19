@@ -1,0 +1,160 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "title": "Parsed Resume Data",
+    "name": "sree krishna suresh",
+    "current_location": {
+        "state": "WA",
+        "country": "USA"
+    },
+    "email": "sreekrishnadav@gmail.com",
+    "phone_number": "+1 (857) 318-6995",
+    "websites": {
+        "github": "https://github.com/Sree-Krishna",
+        "linkedin": "https://www.linkedin.com/in/sree-krishna/",
+        "portfolio": "https://sree-krishna.github.io/",
+        "others": [
+            "https://policyrecommendation-cloudera.streamlit.app/",
+            "https://sites.google.com/view/crop-yield-analysis-prediction/home"
+        ]
+    },
+    "professional_summary": "4+ years of experience | Award-winning ML solutions | $1M+ profit impact | Predictive and Statistical modeling",
+    "education": [
+        {
+            "degree": "masters",
+            "major": "Data Science",
+            "location": {
+                "state": "MA",
+                "country": "USA"
+            },
+            "institution": "Northeastern University, Khoury College of Computer Science",
+            "start_date": "09/2021",
+            "end_date": "12/2023",
+            "details": {
+                "awards": null,
+                "relevant_courses": [
+                    "Statistical Modelling",
+                    "Machine Learning",
+                    "Deep Learning",
+                    "Data Mining",
+                    "NLP",
+                    "Big Data Analytics"
+                ],
+                "clubs": null
+            }
+        }
+    ],
+    "work_experience": [
+        {
+            "job_title": "Software Intern-AI",
+            "company": "PeopleTech Group",
+            "start_date": "10/2024",
+            "end_date": null,
+            "location": {
+                "city": "Redmond",
+                "state": "WA",
+                "country": "USA"
+            },
+            "responsibilities": [
+                "Developed RAG applications with prompt engineering, used OpenAI LLM models in Azure AI Studio and deployed on Bot Service."
+            ]
+        },
+        {
+            "job_title": "Data Scientist Volunteer",
+            "company": "Abecedarian LLC",
+            "start_date": "02/2024",
+            "end_date": null,
+            "location": {
+                "city": "Boston",
+                "state": "MA",
+                "country": "USA"
+            },
+            "responsibilities": [
+                "Increased user engagement and application performance by 80% by developing statistical models and conducting A/B testing.",
+                "Led data-driven decisions among stakeholders by creating Tableau dashboards for trend analysis and performing RCA using Power BI.",
+                "Decreased model deployment time by 50% by spearheading a cross-functional MLOps initiative, impacting 5 product teams.",
+                "Transformed candidate shortlisting in an open-source project by building a full-stack GenAI application with RAG-LLM.",
+                "Analyzed user data performing causal inference, temporal/spatial clustering, and text analysis with BERT and GPT-based models.",
+                "Refactored and wrote 400 lines of code in Python for an AI-powered job ranking application using LlamaIndex and OpenAI LLMs."
+            ]
+        },
+        {
+            "job_title": "Data Science & ML Research Intern",
+            "company": "Lightforce Orthodontics",
+            "start_date": "01/2023",
+            "end_date": "07/2023",
+            "location": {
+                "city": "Boston",
+                "state": "MA",
+                "country": "USA"
+            },
+            "responsibilities": [
+                "Automated processing and analysis of 5TB of point cloud data monthly by designing a scalable data pipeline on AWS using Airflow.",
+                "Reduced product design costs by $50k annually with a novel 3D CNN Point Net solution built using PyTorch on AWS SageMaker.",
+                "Enhanced 3D object segmentation model accuracy by 25% via feature engineering, hyperparameter tuning, and testing loss functions.",
+                "Streamlined CI/CD workflows and deployment using Terraform and TeamCity enabling faster updates and releases."
+            ]
+        },
+        {
+            "job_title": "Graduate Teaching Assistant",
+            "company": "Northeastern University",
+            "start_date": "09/2022",
+            "end_date": "12/2023",
+            "location": {
+                "city": "Boston",
+                "state": "MA",
+                "country": "USA"
+            },
+            "responsibilities": [
+                "Improved grades of 40 students by mentoring projects and tutoring on topics including supervised machine learning and data mining.",
+                "Increased student engagement by 20% through management of course logistics, assignments, and in-class activities along with faculty."
+            ]
+        },
+        {
+            "job_title": "Data Engineer",
+            "company": "Wipro",
+            "start_date": "05/2018",
+            "end_date": "08/2021",
+            "location": {
+                "city": null,
+                "state": null,
+                "country": null
+            },
+            "responsibilities": [
+                "Saved $200k annually and accelerated data retrieval by 25% by designing an ETL pipeline and SAP Business Objects.",
+                "Optimized manual data processing time by 60% for 100 million records by implementing GraphQL API and optimizing SQL scripts.",
+                "Boosted server response by 9 seconds and reduced operational costs by leading tech stack migration from PostgreSQL to Elasticsearch.",
+                "Integrated front-end and back-end components in Nokia\u2019s optical network planning web application using Spring and Angular.",
+                "Conducted agile sprint meetings, data architecture workshops, and mentored interns, resulting in a 30% increase in project adoption."
+            ]
+        }
+    ],
+    "skills": [
+        "Python",
+        "SQL",
+        "R",
+        "Java",
+        "NoSQL",
+        "NLP",
+        "Regression",
+        "Clustering",
+        "Time Series Forecasting",
+        "Computer Vision",
+        "A/B Testing",
+        "PyTorch",
+        "TensorFlow",
+        "pandas",
+        "scikit-learn",
+        "Streamlit",
+        "HuggingFace",
+        "Tableau",
+        "PowerBI",
+        "Azure Certified",
+        "AWS",
+        "Docker",
+        "Jira",
+        "Jenkins",
+        "Git",
+        "Terraform",
+        "MLflow"
+    ]
+}

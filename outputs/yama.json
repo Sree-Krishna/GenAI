@@ -1,0 +1,142 @@
+{
+    "name": "yama (ya-wen) chang",
+    "current_location": {
+        "state": "NY",
+        "country": "USA"
+    },
+    "email": "yamachang.ds@gmail.com",
+    "phone_number": "+1 (646) 927-9876",
+    "websites": {
+        "github": null,
+        "linkedin": null,
+        "portfolio": null,
+        "others": []
+    },
+    "professional_summary": "Data Scientist with over 5 years of experience focusing on survey-based research, analytics, and data-driven insights. Specializes in experimental design, psychometrics, and modeling with a strong understanding of human behavior.",
+    "education": [
+        {
+            "degree": "masters",
+            "major": "Clinical Psychology with a concentration in Research/Quantitative Methods",
+            "location": {
+                "state": "NY",
+                "country": "USA"
+            },
+            "institution": "Columbia University",
+            "start_date": "08/2018",
+            "end_date": "05/2020",
+            "details": {
+                "awards": null,
+                "relevant_courses": [
+                    "Data Science",
+                    "Machine Learning",
+                    "Probability and Inferential Statistics",
+                    "Applied Regression Analysis"
+                ],
+                "clubs": null
+            }
+        },
+        {
+            "degree": "bachelors",
+            "major": "Economics",
+            "location": {
+                "state": null,
+                "country": "Taiwan"
+            },
+            "institution": "National Taiwan University",
+            "start_date": "08/2008",
+            "end_date": "05/2012",
+            "details": {
+                "awards": null,
+                "relevant_courses": [],
+                "clubs": null
+            }
+        },
+        {
+            "degree": null,
+            "major": null,
+            "location": {
+                "state": null,
+                "country": null
+            },
+            "institution": "Stanford University",
+            "start_date": "01/2010",
+            "end_date": "12/2010",
+            "details": {
+                "awards": null,
+                "relevant_courses": [],
+                "clubs": null
+            }
+        }
+    ],
+    "work_experience": [
+        {
+            "job_title": "Data Scientist",
+            "company": "Lab for Scalable Mental Health",
+            "start_date": "08/2022",
+            "end_date": null,
+            "location": {
+                "city": "Stony Brook",
+                "state": "NY",
+                "country": "USA"
+            },
+            "responsibilities": [
+                "Enhanced solution efficiency by 90% through the implementation of data-driven analytical tools and automation.",
+                "Collaborated and communicated with cross-functional partners to enhance decision-making using data analytics, survey research, experimentation, and modeling.",
+                "Identified key metrics and performed rigorous exploratory and statistical analysis to understand demographic, behavioral, and attitudinal trends, leading to published papers in high-ranking journals.",
+                "Led and promoted best practices for data management, including data quality checks, data cleaning, data dictionary creation, and statistical analysis."
+            ]
+        },
+        {
+            "job_title": "Senior Data Analyst",
+            "company": "University of Pittsburgh Medical Center",
+            "start_date": "06/2020",
+            "end_date": "07/2022",
+            "location": {
+                "city": "Pittsburgh",
+                "state": "PA",
+                "country": "USA"
+            },
+            "responsibilities": [
+                "Designed and implemented research studies of survey and behavioral data, yielding critical insights into target demographics and leading to published papers in high-ranking journals.",
+                "Automated data aggregation from multiple sources, leading to a 20-hour monthly reduction in feature engineering and transformation processes.",
+                "Created a markdown-based reporting system for visualizing recruitment indices (e.g., Year-over-Year Growth), saving an additional 20 hours per month."
+            ]
+        }
+    ],
+    "skills": [
+        "R",
+        "tidyverse",
+        "ggplot2",
+        "tidymodels",
+        "markdown",
+        "Python",
+        "numpy",
+        "pandas",
+        "scikit-learn",
+        "matplotlib",
+        "SQL",
+        "Qualtrics",
+        "Git",
+        "GitHub",
+        "Command Line",
+        "Covariance and correlation modeling",
+        "Hypothesis Testing",
+        "A/B Testing",
+        "Multilevel modeling",
+        "Factor Analysis",
+        "Principal Component Analysis",
+        "Cluster Analysis",
+        "Latent Profile Analysis",
+        "Classification",
+        "KNN",
+        "Random Forest",
+        "XGBoost",
+        "Regression",
+        "Lasso",
+        "Ridge",
+        "Elastic Net",
+        "Clustering",
+        "K-means",
+        "GMM"
+    ]
+}

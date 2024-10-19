@@ -1,0 +1,7 @@
+PyPDF2
+openai
+langchain
+tiktoken
+python-dotenv
+langchain_community
+pdfplumber
