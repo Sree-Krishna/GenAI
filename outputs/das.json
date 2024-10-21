@@ -1,0 +1,167 @@
+{
+    "name": "debarghya das",
+    "current_location": {
+        "state": "NY",
+        "country": "USA"
+    },
+    "email": "deedy@fb.com",
+    "phone_number": "+1 (607) 379-5733",
+    "websites": {
+        "github": "https://github.com/deedydas",
+        "linkedin": "https://www.linkedin.com/in/debarghyadas",
+        "portfolio": "http://debarghyadas.com",
+        "others": [
+            "http://fb.co/dd",
+            "https://facebook/dd",
+            "https://www.youtube.com/user/DeedyDash007",
+            "https://twitter.com/debarghya_das",
+            "https://www.quora.com/Debarghya-Das",
+            "http://www.cs.cornell.edu/~ashesh/",
+            "http://www.cs.cornell.edu/~asaxena/",
+            "http://conf.ling.cornell.edu/~tilsen/"
+        ]
+    },
+    "professional_summary": null,
+    "education": [
+        {
+            "degree": "masters",
+            "major": "computer science",
+            "location": {
+                "state": "NY",
+                "country": "USA"
+            },
+            "institution": "CORNELL UNIVERSITY",
+            "start_date": null,
+            "end_date": "12/2014",
+            "details": {
+                "awards": "Magna Cum Laude",
+                "relevant_courses": [
+                    "Advanced Machine Learning",
+                    "Open Source Software Engineering",
+                    "Advanced Interactive Graphics",
+                    "Compilers + Practicum",
+                    "Cloud Computing",
+                    "Evolutionary Computation",
+                    "Defending Computer Networks",
+                    "Machine Learning"
+                ],
+                "clubs": null
+            }
+        },
+        {
+            "degree": "bachelors",
+            "major": "computer science",
+            "location": {
+                "state": "NY",
+                "country": "USA"
+            },
+            "institution": "CORNELL UNIVERSITY",
+            "start_date": null,
+            "end_date": "05/2014",
+            "details": {
+                "awards": null,
+                "relevant_courses": [
+                    "Information Retrieval",
+                    "Operating Systems",
+                    "Artificial Intelligence + Practicum",
+                    "Functional Programming",
+                    "Computer Graphics + Practicum",
+                    "Unix Tools and Scripting"
+                ],
+                "clubs": null
+            }
+        },
+        {
+            "degree": null,
+            "major": null,
+            "location": {
+                "state": null,
+                "country": "India"
+            },
+            "institution": "LA MARTINIERE FOR BOYS",
+            "start_date": null,
+            "end_date": "05/2011",
+            "details": null
+        }
+    ],
+    "work_experience": [
+        {
+            "job_title": "SOFTWARE ENGINEER",
+            "company": "FACEBOOK",
+            "start_date": "01/2015",
+            "end_date": null,
+            "location": {
+                "city": "New York",
+                "state": "NY",
+                "country": "USA"
+            },
+            "responsibilities": null
+        },
+        {
+            "job_title": "KPCB FELLOW + SOFTWARE ENGINEERING INTERN",
+            "company": "COURSERA",
+            "start_date": "06/2014",
+            "end_date": "09/2014",
+            "location": {
+                "city": "Mountain View",
+                "state": "CA",
+                "country": "USA"
+            },
+            "responsibilities": [
+                "52 out of 2500 applicants chosen to be a KPCB Fellow 2014.",
+                "Led and shipped Yoda - the admin interface for the new Phoenix platform.",
+                "Full-stack developer - Wrote and reviewed code for JS using Backbone, Jade, Stylus and Require and Scala using Play"
+            ]
+        },
+        {
+            "job_title": "SOFTWARE ENGINEERING INTERN",
+            "company": "GOOGLE",
+            "start_date": "05/2013",
+            "end_date": "08/2013",
+            "location": {
+                "city": "Mountain View",
+                "state": "CA",
+                "country": "USA"
+            },
+            "responsibilities": [
+                "Worked on the YouTube Captions team, in Javascript and Python to plan, to design and develop the full stack to add and edit Automatic Speech Recognition captions. In production.",
+                "Created a backbone.js-like framework for the Captions editor."
+            ]
+        },
+        {
+            "job_title": "OPEN SOURCE CONTRIBUTOR & TEAM LEADER",
+            "company": "PHABRICATOR",
+            "start_date": "01/2013",
+            "end_date": "05/2013",
+            "location": {
+                "city": "Palo Alto",
+                "state": "CA",
+                "country": "USA"
+            },
+            "responsibilities": [
+                "Phabricator is used daily by Facebook, Dropbox, Quora, Asana and more.",
+                "I created the Meme generator and more in PHP and Shell.",
+                "Led a team from MIT, Cornell, IC London and UHelsinki for the project."
+            ]
+        }
+    ],
+    "skills": [
+        "Java",
+        "Shell",
+        "Python",
+        "Javascript",
+        "OCaml",
+        "Matlab",
+        "Rails",
+        "LATEX",
+        "C",
+        "C++",
+        "CSS",
+        "PHP",
+        "Assembly",
+        "AS3",
+        "iOS",
+        "Android",
+        "MySQL"
+    ]
+}

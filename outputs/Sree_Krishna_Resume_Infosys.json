@@ -1,6 +1,4 @@
 {
-    "$schema": "http://json-schema.org/draft-07/schema#",
-    "title": "Parsed Resume Data",
     "name": "sree krishna suresh",
     "current_location": {
         "state": "WA",
